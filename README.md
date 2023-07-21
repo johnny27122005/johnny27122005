@@ -1,5 +1,5 @@
 - 👋 Oi, eu me chamo Johnny.
-- 👀 Estou interessado em estudar sobre o que é ser um programador.
+- 👀 Estou interessado em trabalhar como programador.
 - 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS, Front-End.
 - ;) Estou estudando para ser um Dev de Full Stack, mas apto também para trabalhar somente em Back-End ou em Front-End.
 <!---
